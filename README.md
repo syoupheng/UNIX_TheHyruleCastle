@@ -2,7 +2,7 @@
 
 ## I) Introduction
 
-For this project I created a turn by turn RPG that you can execute in **Bash**. In this game you find yourself at the bottom of the Hyrule castle and you will have to the enemies on each floor in order to reach the last floor (number 10) and defeat the final boss. 
+For this project I created a turn by turn RPG that you can execute in **Bash**. In this game you find yourself at the bottom of the Hyrule castle and you will have to fight the enemies on each floor in order to reach the last floor (number 10) and defeat the final boss. 
 
 ## II) Game mechanics
 
